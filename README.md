@@ -7,7 +7,7 @@ code by Sulian Thual (2013)
 
 A mod for minecraft to create fractals structures procedurally. Only works with older versions of the game circa 2013. Written in javascript.
 
-references: https://github.com/sulianthual/thebookofthings
+references: https://github.com/sulianthual/fracraft
 
 <h4>Instructions:</h4> 
 
